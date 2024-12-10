@@ -1,0 +1,1321 @@
+[2024/10/15 09:29:35 511][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:35 514][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:35 514][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      961  Ivw_AppendDataSyn [out] 0
+[2024/10/15 09:29:35 514][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     941  QIVWAudioWrite() [out] 0
+[2024/10/15 09:29:35 545][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     858  QIVWAudioWrite(86e964b0,871670b0,6400,2,) [in]
+[2024/10/15 09:29:35 545][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     865  QIVWAudioWrite session addr:(86e964b0)
+[2024/10/15 09:29:35 545][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      906  Ivw_AppendDataSyn(86e656f0, 871670b0, 6400) [in]
+[2024/10/15 09:29:35 545][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:35 545][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:35 551][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:35 551][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:35 551][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      961  Ivw_AppendDataSyn [out] 0
+[2024/10/15 09:29:35 551][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     941  QIVWAudioWrite() [out] 0
+[2024/10/15 09:29:35 582][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     858  QIVWAudioWrite(86e964b0,871689b0,6400,2,) [in]
+[2024/10/15 09:29:35 582][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     865  QIVWAudioWrite session addr:(86e964b0)
+[2024/10/15 09:29:35 582][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      906  Ivw_AppendDataSyn(86e656f0, 871689b0, 6400) [in]
+[2024/10/15 09:29:35 582][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:35 589][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:35 589][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:35 589][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:35 589][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      961  Ivw_AppendDataSyn [out] 0
+[2024/10/15 09:29:35 589][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     941  QIVWAudioWrite() [out] 0
+[2024/10/15 09:29:35 620][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     858  QIVWAudioWrite(86e964b0,8716a2b0,6354,4,) [in]
+[2024/10/15 09:29:35 620][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     865  QIVWAudioWrite session addr:(86e964b0)
+[2024/10/15 09:29:35 620][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      906  Ivw_AppendDataSyn(86e656f0, 8716a2b0, 6354) [in]
+[2024/10/15 09:29:35 620][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:35 629][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:35 629][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:35 629][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:35 629][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      961  Ivw_AppendDataSyn [out] 0
+[2024/10/15 09:29:35 629][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      855  Ivw_ResetSyn(86e656f0) [in]
+[2024/10/15 09:29:35 640][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      873  Ivw_ResetSyn(0) [out]
+[2024/10/15 09:29:35 640][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     941  QIVWAudioWrite() [out] 0
+[2024/10/15 09:29:37 278][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     858  QIVWAudioWrite(86e964b0,8716bb90,6400,1,) [in]
+[2024/10/15 09:29:37 279][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     865  QIVWAudioWrite session addr:(86e964b0)
+[2024/10/15 09:29:37 279][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      906  Ivw_AppendDataSyn(86e656f0, 8716bb90, 6400) [in]
+[2024/10/15 09:29:37 279][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:37 279][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:37 279][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:37 279][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:37 279][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      961  Ivw_AppendDataSyn [out] 0
+[2024/10/15 09:29:37 279][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     941  QIVWAudioWrite() [out] 0
+[2024/10/15 09:29:37 310][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     858  QIVWAudioWrite(86e964b0,8716d490,6400,2,) [in]
+[2024/10/15 09:29:37 310][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     865  QIVWAudioWrite session addr:(86e964b0)
+[2024/10/15 09:29:37 310][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      906  Ivw_AppendDataSyn(86e656f0, 8716d490, 6400) [in]
+[2024/10/15 09:29:37 310][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:37 317][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:37 317][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:37 317][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:37 317][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      961  Ivw_AppendDataSyn [out] 0
+[2024/10/15 09:29:37 317][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     941  QIVWAudioWrite() [out] 0
+[2024/10/15 09:29:37 348][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     858  QIVWAudioWrite(86e964b0,8716ed90,6400,2,) [in]
+[2024/10/15 09:29:37 348][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     865  QIVWAudioWrite session addr:(86e964b0)
+[2024/10/15 09:29:37 348][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      906  Ivw_AppendDataSyn(86e656f0, 8716ed90, 6400) [in]
+[2024/10/15 09:29:37 354][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:37 354][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:37 355][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:37 361][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:37 361][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      961  Ivw_AppendDataSyn [out] 0
+[2024/10/15 09:29:37 361][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     941  QIVWAudioWrite() [out] 0
+[2024/10/15 09:29:37 392][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     858  QIVWAudioWrite(86e964b0,87170690,6400,2,) [in]
+[2024/10/15 09:29:37 392][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     865  QIVWAudioWrite session addr:(86e964b0)
+[2024/10/15 09:29:37 392][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      906  Ivw_AppendDataSyn(86e656f0, 87170690, 6400) [in]
+[2024/10/15 09:29:37 392][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:37 392][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:37 396][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:37 396][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:37 396][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      961  Ivw_AppendDataSyn [out] 0
+[2024/10/15 09:29:37 396][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     941  QIVWAudioWrite() [out] 0
+[2024/10/15 09:29:37 427][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     858  QIVWAudioWrite(86e964b0,87171f90,6400,2,) [in]
+[2024/10/15 09:29:37 427][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     865  QIVWAudioWrite session addr:(86e964b0)
+[2024/10/15 09:29:37 427][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      906  Ivw_AppendDataSyn(86e656f0, 87171f90, 6400) [in]
+[2024/10/15 09:29:37 427][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:37 431][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:37 431][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:37 432][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:37 432][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      961  Ivw_AppendDataSyn [out] 0
+[2024/10/15 09:29:37 432][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     941  QIVWAudioWrite() [out] 0
+[2024/10/15 09:29:37 462][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     858  QIVWAudioWrite(86e964b0,87173890,6400,2,) [in]
+[2024/10/15 09:29:37 462][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     865  QIVWAudioWrite session addr:(86e964b0)
+[2024/10/15 09:29:37 462][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      906  Ivw_AppendDataSyn(86e656f0, 87173890, 6400) [in]
+[2024/10/15 09:29:37 462][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:37 468][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:37 468][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:37 468][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:37 468][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      961  Ivw_AppendDataSyn [out] 0
+[2024/10/15 09:29:37 468][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     941  QIVWAudioWrite() [out] 0
+[2024/10/15 09:29:37 499][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     858  QIVWAudioWrite(86e964b0,87175190,6400,2,) [in]
+[2024/10/15 09:29:37 499][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     865  QIVWAudioWrite session addr:(86e964b0)
+[2024/10/15 09:29:37 499][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      906  Ivw_AppendDataSyn(86e656f0, 87175190, 6400) [in]
+[2024/10/15 09:29:37 505][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:37 506][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:37 506][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:37 512][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:37 512][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      961  Ivw_AppendDataSyn [out] 0
+[2024/10/15 09:29:37 512][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     941  QIVWAudioWrite() [out] 0
+[2024/10/15 09:29:37 542][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     858  QIVWAudioWrite(86e964b0,87176a90,6400,2,) [in]
+[2024/10/15 09:29:37 542][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     865  QIVWAudioWrite session addr:(86e964b0)
+[2024/10/15 09:29:37 543][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      906  Ivw_AppendDataSyn(86e656f0, 87176a90, 6400) [in]
+[2024/10/15 09:29:37 543][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:37 543][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:37 549][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:37 549][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:37 549][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      961  Ivw_AppendDataSyn [out] 0
+[2024/10/15 09:29:37 549][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     941  QIVWAudioWrite() [out] 0
+[2024/10/15 09:29:37 579][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     858  QIVWAudioWrite(86e964b0,87178390,6400,2,) [in]
+[2024/10/15 09:29:37 580][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     865  QIVWAudioWrite session addr:(86e964b0)
+[2024/10/15 09:29:37 580][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      906  Ivw_AppendDataSyn(86e656f0, 87178390, 6400) [in]
+[2024/10/15 09:29:37 580][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:37 585][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:37 585][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:37 585][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:37 585][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      961  Ivw_AppendDataSyn [out] 0
+[2024/10/15 09:29:37 585][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     941  QIVWAudioWrite() [out] 0
+[2024/10/15 09:29:37 615][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     858  QIVWAudioWrite(86e964b0,87179c90,6354,4,) [in]
+[2024/10/15 09:29:37 615][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     865  QIVWAudioWrite session addr:(86e964b0)
+[2024/10/15 09:29:37 615][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      906  Ivw_AppendDataSyn(86e656f0, 87179c90, 6354) [in]
+[2024/10/15 09:29:37 616][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:37 622][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:37 622][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:37 623][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:37 623][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      961  Ivw_AppendDataSyn [out] 0
+[2024/10/15 09:29:37 623][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      855  Ivw_ResetSyn(86e656f0) [in]
+[2024/10/15 09:29:37 632][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      873  Ivw_ResetSyn(0) [out]
+[2024/10/15 09:29:37 632][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     941  QIVWAudioWrite() [out] 0
+[2024/10/15 09:29:39 289][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     858  QIVWAudioWrite(86e964b0,8717b570,6400,1,) [in]
+[2024/10/15 09:29:39 289][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     865  QIVWAudioWrite session addr:(86e964b0)
+[2024/10/15 09:29:39 289][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      906  Ivw_AppendDataSyn(86e656f0, 8717b570, 6400) [in]
+[2024/10/15 09:29:39 289][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:39 289][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:39 289][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:39 289][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:39 289][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      961  Ivw_AppendDataSyn [out] 0
+[2024/10/15 09:29:39 289][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     941  QIVWAudioWrite() [out] 0
+[2024/10/15 09:29:39 320][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     858  QIVWAudioWrite(86e964b0,8717ce70,6400,2,) [in]
+[2024/10/15 09:29:39 320][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     865  QIVWAudioWrite session addr:(86e964b0)
+[2024/10/15 09:29:39 320][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      906  Ivw_AppendDataSyn(86e656f0, 8717ce70, 6400) [in]
+[2024/10/15 09:29:39 320][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:39 327][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:39 328][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:39 328][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:39 328][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      961  Ivw_AppendDataSyn [out] 0
+[2024/10/15 09:29:39 328][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     941  QIVWAudioWrite() [out] 0
+[2024/10/15 09:29:39 358][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     858  QIVWAudioWrite(86e964b0,8717e770,6400,2,) [in]
+[2024/10/15 09:29:39 358][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     865  QIVWAudioWrite session addr:(86e964b0)
+[2024/10/15 09:29:39 358][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      906  Ivw_AppendDataSyn(86e656f0, 8717e770, 6400) [in]
+[2024/10/15 09:29:39 364][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:39 364][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:39 364][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:39 367][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:39 367][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      961  Ivw_AppendDataSyn [out] 0
+[2024/10/15 09:29:39 367][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     941  QIVWAudioWrite() [out] 0
+[2024/10/15 09:29:39 398][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     858  QIVWAudioWrite(86e964b0,87180070,6400,2,) [in]
+[2024/10/15 09:29:39 398][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     865  QIVWAudioWrite session addr:(86e964b0)
+[2024/10/15 09:29:39 398][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      906  Ivw_AppendDataSyn(86e656f0, 87180070, 6400) [in]
+[2024/10/15 09:29:39 398][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:39 398][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:39 404][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:39 404][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:39 404][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      961  Ivw_AppendDataSyn [out] 0
+[2024/10/15 09:29:39 404][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     941  QIVWAudioWrite() [out] 0
+[2024/10/15 09:29:39 435][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     858  QIVWAudioWrite(86e964b0,87181970,6400,2,) [in]
+[2024/10/15 09:29:39 435][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     865  QIVWAudioWrite session addr:(86e964b0)
+[2024/10/15 09:29:39 435][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      906  Ivw_AppendDataSyn(86e656f0, 87181970, 6400) [in]
+[2024/10/15 09:29:39 435][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:39 443][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:39 443][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:39 443][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:39 443][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      961  Ivw_AppendDataSyn [out] 0
+[2024/10/15 09:29:39 443][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     941  QIVWAudioWrite() [out] 0
+[2024/10/15 09:29:39 473][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     858  QIVWAudioWrite(86e964b0,87183270,6400,2,) [in]
+[2024/10/15 09:29:39 474][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     865  QIVWAudioWrite session addr:(86e964b0)
+[2024/10/15 09:29:39 474][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      906  Ivw_AppendDataSyn(86e656f0, 87183270, 6400) [in]
+[2024/10/15 09:29:39 474][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:39 482][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:39 482][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:39 482][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:39 482][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      961  Ivw_AppendDataSyn [out] 0
+[2024/10/15 09:29:39 482][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     941  QIVWAudioWrite() [out] 0
+[2024/10/15 09:29:39 513][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     858  QIVWAudioWrite(86e964b0,87184b70,6400,2,) [in]
+[2024/10/15 09:29:39 513][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     865  QIVWAudioWrite session addr:(86e964b0)
+[2024/10/15 09:29:39 513][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      906  Ivw_AppendDataSyn(86e656f0, 87184b70, 6400) [in]
+[2024/10/15 09:29:39 520][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:39 520][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:39 520][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:39 525][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:39 526][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      961  Ivw_AppendDataSyn [out] 0
+[2024/10/15 09:29:39 526][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     941  QIVWAudioWrite() [out] 0
+[2024/10/15 09:29:39 556][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     858  QIVWAudioWrite(86e964b0,87186470,6400,2,) [in]
+[2024/10/15 09:29:39 556][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     865  QIVWAudioWrite session addr:(86e964b0)
+[2024/10/15 09:29:39 556][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      906  Ivw_AppendDataSyn(86e656f0, 87186470, 6400) [in]
+[2024/10/15 09:29:39 556][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:39 557][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:39 565][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:39 565][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:39 565][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      961  Ivw_AppendDataSyn [out] 0
+[2024/10/15 09:29:39 565][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     941  QIVWAudioWrite() [out] 0
+[2024/10/15 09:29:39 596][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     858  QIVWAudioWrite(86e964b0,87187d70,6400,2,) [in]
+[2024/10/15 09:29:39 596][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     865  QIVWAudioWrite session addr:(86e964b0)
+[2024/10/15 09:29:39 596][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      906  Ivw_AppendDataSyn(86e656f0, 87187d70, 6400) [in]
+[2024/10/15 09:29:39 596][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:39 603][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:39 603][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:39 603][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:39 603][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      961  Ivw_AppendDataSyn [out] 0
+[2024/10/15 09:29:39 603][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     941  QIVWAudioWrite() [out] 0
+[2024/10/15 09:29:39 634][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     858  QIVWAudioWrite(86e964b0,87189670,6354,4,) [in]
+[2024/10/15 09:29:39 634][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     865  QIVWAudioWrite session addr:(86e964b0)
+[2024/10/15 09:29:39 634][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      906  Ivw_AppendDataSyn(86e656f0, 87189670, 6354) [in]
+[2024/10/15 09:29:39 634][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:39 641][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:39 641][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:39 641][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:39 641][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      961  Ivw_AppendDataSyn [out] 0
+[2024/10/15 09:29:39 641][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      855  Ivw_ResetSyn(86e656f0) [in]
+[2024/10/15 09:29:39 652][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      873  Ivw_ResetSyn(0) [out]
+[2024/10/15 09:29:39 652][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     941  QIVWAudioWrite() [out] 0
+[2024/10/15 09:29:41 275][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     858  QIVWAudioWrite(86e964b0,8718af50,6400,1,) [in]
+[2024/10/15 09:29:41 275][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     865  QIVWAudioWrite session addr:(86e964b0)
+[2024/10/15 09:29:41 275][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      906  Ivw_AppendDataSyn(86e656f0, 8718af50, 6400) [in]
+[2024/10/15 09:29:41 275][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:41 275][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:41 275][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:41 275][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:41 275][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      961  Ivw_AppendDataSyn [out] 0
+[2024/10/15 09:29:41 275][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     941  QIVWAudioWrite() [out] 0
+[2024/10/15 09:29:41 306][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     858  QIVWAudioWrite(86e964b0,8718c850,6400,2,) [in]
+[2024/10/15 09:29:41 306][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     865  QIVWAudioWrite session addr:(86e964b0)
+[2024/10/15 09:29:41 306][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      906  Ivw_AppendDataSyn(86e656f0, 8718c850, 6400) [in]
+[2024/10/15 09:29:41 306][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:41 313][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:41 313][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:41 313][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:41 313][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      961  Ivw_AppendDataSyn [out] 0
+[2024/10/15 09:29:41 313][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     941  QIVWAudioWrite() [out] 0
+[2024/10/15 09:29:41 343][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     858  QIVWAudioWrite(86e964b0,8718e150,6400,2,) [in]
+[2024/10/15 09:29:41 343][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     865  QIVWAudioWrite session addr:(86e964b0)
+[2024/10/15 09:29:41 343][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      906  Ivw_AppendDataSyn(86e656f0, 8718e150, 6400) [in]
+[2024/10/15 09:29:41 351][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:41 351][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:41 351][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:41 355][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:41 355][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      961  Ivw_AppendDataSyn [out] 0
+[2024/10/15 09:29:41 355][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     941  QIVWAudioWrite() [out] 0
+[2024/10/15 09:29:41 386][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     858  QIVWAudioWrite(86e964b0,8718fa50,6400,2,) [in]
+[2024/10/15 09:29:41 386][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     865  QIVWAudioWrite session addr:(86e964b0)
+[2024/10/15 09:29:41 386][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      906  Ivw_AppendDataSyn(86e656f0, 8718fa50, 6400) [in]
+[2024/10/15 09:29:41 386][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:41 386][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:41 392][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:41 392][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:41 392][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      961  Ivw_AppendDataSyn [out] 0
+[2024/10/15 09:29:41 392][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     941  QIVWAudioWrite() [out] 0
+[2024/10/15 09:29:41 422][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     858  QIVWAudioWrite(86e964b0,87191350,6400,2,) [in]
+[2024/10/15 09:29:41 422][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     865  QIVWAudioWrite session addr:(86e964b0)
+[2024/10/15 09:29:41 422][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      906  Ivw_AppendDataSyn(86e656f0, 87191350, 6400) [in]
+[2024/10/15 09:29:41 422][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:41 430][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:41 430][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:41 431][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:41 431][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      961  Ivw_AppendDataSyn [out] 0
+[2024/10/15 09:29:41 431][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     941  QIVWAudioWrite() [out] 0
+[2024/10/15 09:29:41 461][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     858  QIVWAudioWrite(86e964b0,87192c50,6400,2,) [in]
+[2024/10/15 09:29:41 461][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     865  QIVWAudioWrite session addr:(86e964b0)
+[2024/10/15 09:29:41 461][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      906  Ivw_AppendDataSyn(86e656f0, 87192c50, 6400) [in]
+[2024/10/15 09:29:41 462][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:41 468][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:41 468][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:41 468][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:41 468][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      961  Ivw_AppendDataSyn [out] 0
+[2024/10/15 09:29:41 468][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     941  QIVWAudioWrite() [out] 0
+[2024/10/15 09:29:41 499][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     858  QIVWAudioWrite(86e964b0,87194550,6400,2,) [in]
+[2024/10/15 09:29:41 499][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     865  QIVWAudioWrite session addr:(86e964b0)
+[2024/10/15 09:29:41 499][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      906  Ivw_AppendDataSyn(86e656f0, 87194550, 6400) [in]
+[2024/10/15 09:29:41 506][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:41 507][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:41 507][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:41 512][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:41 512][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      961  Ivw_AppendDataSyn [out] 0
+[2024/10/15 09:29:41 512][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     941  QIVWAudioWrite() [out] 0
+[2024/10/15 09:29:41 543][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     858  QIVWAudioWrite(86e964b0,87195e50,6400,2,) [in]
+[2024/10/15 09:29:41 543][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     865  QIVWAudioWrite session addr:(86e964b0)
+[2024/10/15 09:29:41 543][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      906  Ivw_AppendDataSyn(86e656f0, 87195e50, 6400) [in]
+[2024/10/15 09:29:41 543][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:41 543][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:41 551][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:41 551][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:41 552][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      961  Ivw_AppendDataSyn [out] 0
+[2024/10/15 09:29:41 552][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     941  QIVWAudioWrite() [out] 0
+[2024/10/15 09:29:41 582][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     858  QIVWAudioWrite(86e964b0,87197750,6400,2,) [in]
+[2024/10/15 09:29:41 582][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     865  QIVWAudioWrite session addr:(86e964b0)
+[2024/10/15 09:29:41 582][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      906  Ivw_AppendDataSyn(86e656f0, 87197750, 6400) [in]
+[2024/10/15 09:29:41 582][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:41 590][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:41 591][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:41 591][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:41 591][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      961  Ivw_AppendDataSyn [out] 0
+[2024/10/15 09:29:41 591][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     941  QIVWAudioWrite() [out] 0
+[2024/10/15 09:29:41 621][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     858  QIVWAudioWrite(86e964b0,87199050,6354,4,) [in]
+[2024/10/15 09:29:41 621][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     865  QIVWAudioWrite session addr:(86e964b0)
+[2024/10/15 09:29:41 621][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      906  Ivw_AppendDataSyn(86e656f0, 87199050, 6354) [in]
+[2024/10/15 09:29:41 622][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:41 630][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:41 630][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:41 630][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:41 630][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      961  Ivw_AppendDataSyn [out] 0
+[2024/10/15 09:29:41 630][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      855  Ivw_ResetSyn(86e656f0) [in]
+[2024/10/15 09:29:41 638][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      873  Ivw_ResetSyn(0) [out]
+[2024/10/15 09:29:41 638][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     941  QIVWAudioWrite() [out] 0
+[2024/10/15 09:29:43 282][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     858  QIVWAudioWrite(86e964b0,8719a930,6400,1,) [in]
+[2024/10/15 09:29:43 282][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     865  QIVWAudioWrite session addr:(86e964b0)
+[2024/10/15 09:29:43 282][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      906  Ivw_AppendDataSyn(86e656f0, 8719a930, 6400) [in]
+[2024/10/15 09:29:43 283][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:43 283][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:43 283][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:43 283][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:43 283][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      961  Ivw_AppendDataSyn [out] 0
+[2024/10/15 09:29:43 283][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     941  QIVWAudioWrite() [out] 0
+[2024/10/15 09:29:43 314][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     858  QIVWAudioWrite(86e964b0,8719c230,6400,2,) [in]
+[2024/10/15 09:29:43 314][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     865  QIVWAudioWrite session addr:(86e964b0)
+[2024/10/15 09:29:43 314][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      906  Ivw_AppendDataSyn(86e656f0, 8719c230, 6400) [in]
+[2024/10/15 09:29:43 314][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:43 319][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:43 319][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:43 320][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:43 320][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      961  Ivw_AppendDataSyn [out] 0
+[2024/10/15 09:29:43 320][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     941  QIVWAudioWrite() [out] 0
+[2024/10/15 09:29:43 350][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     858  QIVWAudioWrite(86e964b0,8719db30,6400,2,) [in]
+[2024/10/15 09:29:43 350][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     865  QIVWAudioWrite session addr:(86e964b0)
+[2024/10/15 09:29:43 350][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      906  Ivw_AppendDataSyn(86e656f0, 8719db30, 6400) [in]
+[2024/10/15 09:29:43 355][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:43 356][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:43 356][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:43 361][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:43 361][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      961  Ivw_AppendDataSyn [out] 0
+[2024/10/15 09:29:43 361][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     941  QIVWAudioWrite() [out] 0
+[2024/10/15 09:29:43 391][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     858  QIVWAudioWrite(86e964b0,8719f430,6400,2,) [in]
+[2024/10/15 09:29:43 391][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     865  QIVWAudioWrite session addr:(86e964b0)
+[2024/10/15 09:29:43 391][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      906  Ivw_AppendDataSyn(86e656f0, 8719f430, 6400) [in]
+[2024/10/15 09:29:43 391][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:43 391][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:43 396][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:43 396][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:43 396][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      961  Ivw_AppendDataSyn [out] 0
+[2024/10/15 09:29:43 396][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     941  QIVWAudioWrite() [out] 0
+[2024/10/15 09:29:43 426][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     858  QIVWAudioWrite(86e964b0,871a0d30,6400,2,) [in]
+[2024/10/15 09:29:43 427][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     865  QIVWAudioWrite session addr:(86e964b0)
+[2024/10/15 09:29:43 427][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      906  Ivw_AppendDataSyn(86e656f0, 871a0d30, 6400) [in]
+[2024/10/15 09:29:43 427][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:43 433][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:43 433][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:43 433][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:43 433][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      961  Ivw_AppendDataSyn [out] 0
+[2024/10/15 09:29:43 433][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     941  QIVWAudioWrite() [out] 0
+[2024/10/15 09:29:43 464][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     858  QIVWAudioWrite(86e964b0,871a2630,6400,2,) [in]
+[2024/10/15 09:29:43 464][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     865  QIVWAudioWrite session addr:(86e964b0)
+[2024/10/15 09:29:43 464][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      906  Ivw_AppendDataSyn(86e656f0, 871a2630, 6400) [in]
+[2024/10/15 09:29:43 464][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:43 470][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:43 471][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:43 471][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:43 471][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      961  Ivw_AppendDataSyn [out] 0
+[2024/10/15 09:29:43 471][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     941  QIVWAudioWrite() [out] 0
+[2024/10/15 09:29:43 501][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     858  QIVWAudioWrite(86e964b0,871a3f30,6400,2,) [in]
+[2024/10/15 09:29:43 501][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     865  QIVWAudioWrite session addr:(86e964b0)
+[2024/10/15 09:29:43 501][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      906  Ivw_AppendDataSyn(86e656f0, 871a3f30, 6400) [in]
+[2024/10/15 09:29:43 509][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:43 509][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:43 509][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:43 513][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:43 513][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      961  Ivw_AppendDataSyn [out] 0
+[2024/10/15 09:29:43 513][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     941  QIVWAudioWrite() [out] 0
+[2024/10/15 09:29:43 544][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     858  QIVWAudioWrite(86e964b0,871a5830,6400,2,) [in]
+[2024/10/15 09:29:43 544][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     865  QIVWAudioWrite session addr:(86e964b0)
+[2024/10/15 09:29:43 544][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      906  Ivw_AppendDataSyn(86e656f0, 871a5830, 6400) [in]
+[2024/10/15 09:29:43 544][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:43 544][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:43 552][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:43 552][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:43 552][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      961  Ivw_AppendDataSyn [out] 0
+[2024/10/15 09:29:43 553][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     941  QIVWAudioWrite() [out] 0
+[2024/10/15 09:29:43 583][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     858  QIVWAudioWrite(86e964b0,871a7130,6400,2,) [in]
+[2024/10/15 09:29:43 583][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     865  QIVWAudioWrite session addr:(86e964b0)
+[2024/10/15 09:29:43 583][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      906  Ivw_AppendDataSyn(86e656f0, 871a7130, 6400) [in]
+[2024/10/15 09:29:43 583][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:43 591][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:43 591][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:43 592][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:43 592][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      961  Ivw_AppendDataSyn [out] 0
+[2024/10/15 09:29:43 592][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     941  QIVWAudioWrite() [out] 0
+[2024/10/15 09:29:43 622][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     858  QIVWAudioWrite(86e964b0,871a8a30,6354,4,) [in]
+[2024/10/15 09:29:43 622][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     865  QIVWAudioWrite session addr:(86e964b0)
+[2024/10/15 09:29:43 622][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      906  Ivw_AppendDataSyn(86e656f0, 871a8a30, 6354) [in]
+[2024/10/15 09:29:43 623][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:43 631][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:43 631][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:43 631][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:43 631][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      961  Ivw_AppendDataSyn [out] 0
+[2024/10/15 09:29:43 632][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      855  Ivw_ResetSyn(86e656f0) [in]
+[2024/10/15 09:29:43 640][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      873  Ivw_ResetSyn(0) [out]
+[2024/10/15 09:29:43 640][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     941  QIVWAudioWrite() [out] 0
+[2024/10/15 09:29:45 276][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     858  QIVWAudioWrite(86e964b0,871aa310,6400,1,) [in]
+[2024/10/15 09:29:45 276][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     865  QIVWAudioWrite session addr:(86e964b0)
+[2024/10/15 09:29:45 276][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      906  Ivw_AppendDataSyn(86e656f0, 871aa310, 6400) [in]
+[2024/10/15 09:29:45 276][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:45 276][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:45 276][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:45 277][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:45 277][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      961  Ivw_AppendDataSyn [out] 0
+[2024/10/15 09:29:45 277][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     941  QIVWAudioWrite() [out] 0
+[2024/10/15 09:29:45 307][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     858  QIVWAudioWrite(86e964b0,871abc10,6400,2,) [in]
+[2024/10/15 09:29:45 307][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     865  QIVWAudioWrite session addr:(86e964b0)
+[2024/10/15 09:29:45 307][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      906  Ivw_AppendDataSyn(86e656f0, 871abc10, 6400) [in]
+[2024/10/15 09:29:45 308][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:45 315][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:45 315][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:45 316][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:45 316][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      961  Ivw_AppendDataSyn [out] 0
+[2024/10/15 09:29:45 316][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     941  QIVWAudioWrite() [out] 0
+[2024/10/15 09:29:45 346][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     858  QIVWAudioWrite(86e964b0,871ad510,6400,2,) [in]
+[2024/10/15 09:29:45 346][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     865  QIVWAudioWrite session addr:(86e964b0)
+[2024/10/15 09:29:45 346][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      906  Ivw_AppendDataSyn(86e656f0, 871ad510, 6400) [in]
+[2024/10/15 09:29:45 354][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:45 354][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:45 354][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:45 358][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:45 358][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      961  Ivw_AppendDataSyn [out] 0
+[2024/10/15 09:29:45 358][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     941  QIVWAudioWrite() [out] 0
+[2024/10/15 09:29:45 388][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     858  QIVWAudioWrite(86e964b0,871aee10,6400,2,) [in]
+[2024/10/15 09:29:45 388][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     865  QIVWAudioWrite session addr:(86e964b0)
+[2024/10/15 09:29:45 388][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      906  Ivw_AppendDataSyn(86e656f0, 871aee10, 6400) [in]
+[2024/10/15 09:29:45 388][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:45 388][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:45 396][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:45 396][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:45 396][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      961  Ivw_AppendDataSyn [out] 0
+[2024/10/15 09:29:45 396][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     941  QIVWAudioWrite() [out] 0
+[2024/10/15 09:29:45 427][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     858  QIVWAudioWrite(86e964b0,871b0710,6400,2,) [in]
+[2024/10/15 09:29:45 427][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     865  QIVWAudioWrite session addr:(86e964b0)
+[2024/10/15 09:29:45 427][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      906  Ivw_AppendDataSyn(86e656f0, 871b0710, 6400) [in]
+[2024/10/15 09:29:45 427][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:45 434][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:45 434][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:45 435][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:45 435][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      961  Ivw_AppendDataSyn [out] 0
+[2024/10/15 09:29:45 435][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     941  QIVWAudioWrite() [out] 0
+[2024/10/15 09:29:45 465][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     858  QIVWAudioWrite(86e964b0,871b2010,6400,2,) [in]
+[2024/10/15 09:29:45 465][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     865  QIVWAudioWrite session addr:(86e964b0)
+[2024/10/15 09:29:45 465][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      906  Ivw_AppendDataSyn(86e656f0, 871b2010, 6400) [in]
+[2024/10/15 09:29:45 465][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:45 472][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:45 472][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:45 472][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:45 472][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      961  Ivw_AppendDataSyn [out] 0
+[2024/10/15 09:29:45 472][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     941  QIVWAudioWrite() [out] 0
+[2024/10/15 09:29:45 503][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     858  QIVWAudioWrite(86e964b0,871b3910,6400,2,) [in]
+[2024/10/15 09:29:45 503][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     865  QIVWAudioWrite session addr:(86e964b0)
+[2024/10/15 09:29:45 503][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      906  Ivw_AppendDataSyn(86e656f0, 871b3910, 6400) [in]
+[2024/10/15 09:29:45 509][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:45 509][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:45 509][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:45 513][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:45 513][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      961  Ivw_AppendDataSyn [out] 0
+[2024/10/15 09:29:45 513][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     941  QIVWAudioWrite() [out] 0
+[2024/10/15 09:29:45 544][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     858  QIVWAudioWrite(86e964b0,871b5210,6400,2,) [in]
+[2024/10/15 09:29:45 544][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     865  QIVWAudioWrite session addr:(86e964b0)
+[2024/10/15 09:29:45 544][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      906  Ivw_AppendDataSyn(86e656f0, 871b5210, 6400) [in]
+[2024/10/15 09:29:45 544][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:45 544][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:45 549][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:45 550][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:45 550][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      961  Ivw_AppendDataSyn [out] 0
+[2024/10/15 09:29:45 550][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     941  QIVWAudioWrite() [out] 0
+[2024/10/15 09:29:45 580][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     858  QIVWAudioWrite(86e964b0,871b6b10,6400,2,) [in]
+[2024/10/15 09:29:45 580][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     865  QIVWAudioWrite session addr:(86e964b0)
+[2024/10/15 09:29:45 580][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      906  Ivw_AppendDataSyn(86e656f0, 871b6b10, 6400) [in]
+[2024/10/15 09:29:45 581][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:45 587][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:45 587][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:45 587][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:45 587][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      961  Ivw_AppendDataSyn [out] 0
+[2024/10/15 09:29:45 587][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     941  QIVWAudioWrite() [out] 0
+[2024/10/15 09:29:45 618][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     858  QIVWAudioWrite(86e964b0,871b8410,6354,4,) [in]
+[2024/10/15 09:29:45 618][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     865  QIVWAudioWrite session addr:(86e964b0)
+[2024/10/15 09:29:45 618][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      906  Ivw_AppendDataSyn(86e656f0, 871b8410, 6354) [in]
+[2024/10/15 09:29:45 618][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:45 627][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:45 628][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:45 628][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:45 628][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      961  Ivw_AppendDataSyn [out] 0
+[2024/10/15 09:29:45 628][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      855  Ivw_ResetSyn(86e656f0) [in]
+[2024/10/15 09:29:45 639][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      873  Ivw_ResetSyn(0) [out]
+[2024/10/15 09:29:45 639][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     941  QIVWAudioWrite() [out] 0
+[2024/10/15 09:29:47 268][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     858  QIVWAudioWrite(86e964b0,871b9cf0,6400,1,) [in]
+[2024/10/15 09:29:47 268][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     865  QIVWAudioWrite session addr:(86e964b0)
+[2024/10/15 09:29:47 268][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      906  Ivw_AppendDataSyn(86e656f0, 871b9cf0, 6400) [in]
+[2024/10/15 09:29:47 268][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:47 269][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:47 269][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:47 269][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:47 269][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      961  Ivw_AppendDataSyn [out] 0
+[2024/10/15 09:29:47 269][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     941  QIVWAudioWrite() [out] 0
+[2024/10/15 09:29:47 299][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     858  QIVWAudioWrite(86e964b0,871bb5f0,6400,2,) [in]
+[2024/10/15 09:29:47 299][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     865  QIVWAudioWrite session addr:(86e964b0)
+[2024/10/15 09:29:47 299][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      906  Ivw_AppendDataSyn(86e656f0, 871bb5f0, 6400) [in]
+[2024/10/15 09:29:47 299][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:47 307][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:47 307][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:47 307][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:47 307][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      961  Ivw_AppendDataSyn [out] 0
+[2024/10/15 09:29:47 307][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     941  QIVWAudioWrite() [out] 0
+[2024/10/15 09:29:47 338][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     858  QIVWAudioWrite(86e964b0,871bcef0,6400,2,) [in]
+[2024/10/15 09:29:47 338][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     865  QIVWAudioWrite session addr:(86e964b0)
+[2024/10/15 09:29:47 338][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      906  Ivw_AppendDataSyn(86e656f0, 871bcef0, 6400) [in]
+[2024/10/15 09:29:47 346][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:47 346][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:47 346][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:47 349][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:47 349][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      961  Ivw_AppendDataSyn [out] 0
+[2024/10/15 09:29:47 349][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     941  QIVWAudioWrite() [out] 0
+[2024/10/15 09:29:47 380][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     858  QIVWAudioWrite(86e964b0,871be7f0,6400,2,) [in]
+[2024/10/15 09:29:47 380][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     865  QIVWAudioWrite session addr:(86e964b0)
+[2024/10/15 09:29:47 380][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      906  Ivw_AppendDataSyn(86e656f0, 871be7f0, 6400) [in]
+[2024/10/15 09:29:47 380][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:47 380][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:47 387][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:47 387][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:47 387][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      961  Ivw_AppendDataSyn [out] 0
+[2024/10/15 09:29:47 387][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     941  QIVWAudioWrite() [out] 0
+[2024/10/15 09:29:47 417][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     858  QIVWAudioWrite(86e964b0,871c00f0,6400,2,) [in]
+[2024/10/15 09:29:47 417][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     865  QIVWAudioWrite session addr:(86e964b0)
+[2024/10/15 09:29:47 417][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      906  Ivw_AppendDataSyn(86e656f0, 871c00f0, 6400) [in]
+[2024/10/15 09:29:47 418][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:47 424][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:47 424][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:47 424][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:47 424][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      961  Ivw_AppendDataSyn [out] 0
+[2024/10/15 09:29:47 424][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     941  QIVWAudioWrite() [out] 0
+[2024/10/15 09:29:47 454][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     858  QIVWAudioWrite(86e964b0,871c19f0,6400,2,) [in]
+[2024/10/15 09:29:47 454][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     865  QIVWAudioWrite session addr:(86e964b0)
+[2024/10/15 09:29:47 455][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      906  Ivw_AppendDataSyn(86e656f0, 871c19f0, 6400) [in]
+[2024/10/15 09:29:47 455][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:47 461][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:47 461][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:47 461][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:47 461][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      961  Ivw_AppendDataSyn [out] 0
+[2024/10/15 09:29:47 461][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     941  QIVWAudioWrite() [out] 0
+[2024/10/15 09:29:47 492][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     858  QIVWAudioWrite(86e964b0,871c32f0,6400,2,) [in]
+[2024/10/15 09:29:47 492][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     865  QIVWAudioWrite session addr:(86e964b0)
+[2024/10/15 09:29:47 492][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      906  Ivw_AppendDataSyn(86e656f0, 871c32f0, 6400) [in]
+[2024/10/15 09:29:47 497][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:47 497][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:47 497][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:47 500][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:47 500][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      961  Ivw_AppendDataSyn [out] 0
+[2024/10/15 09:29:47 500][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     941  QIVWAudioWrite() [out] 0
+[2024/10/15 09:29:47 531][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     858  QIVWAudioWrite(86e964b0,871c4bf0,6400,2,) [in]
+[2024/10/15 09:29:47 531][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     865  QIVWAudioWrite session addr:(86e964b0)
+[2024/10/15 09:29:47 531][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      906  Ivw_AppendDataSyn(86e656f0, 871c4bf0, 6400) [in]
+[2024/10/15 09:29:47 531][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:47 531][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:47 537][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:47 537][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:47 537][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      961  Ivw_AppendDataSyn [out] 0
+[2024/10/15 09:29:47 537][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     941  QIVWAudioWrite() [out] 0
+[2024/10/15 09:29:47 567][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     858  QIVWAudioWrite(86e964b0,871c64f0,6400,2,) [in]
+[2024/10/15 09:29:47 567][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     865  QIVWAudioWrite session addr:(86e964b0)
+[2024/10/15 09:29:47 567][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      906  Ivw_AppendDataSyn(86e656f0, 871c64f0, 6400) [in]
+[2024/10/15 09:29:47 568][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:47 575][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:47 575][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:47 575][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:47 575][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      961  Ivw_AppendDataSyn [out] 0
+[2024/10/15 09:29:47 575][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     941  QIVWAudioWrite() [out] 0
+[2024/10/15 09:29:47 606][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     858  QIVWAudioWrite(86e964b0,871c7df0,6354,4,) [in]
+[2024/10/15 09:29:47 606][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     865  QIVWAudioWrite session addr:(86e964b0)
+[2024/10/15 09:29:47 606][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      906  Ivw_AppendDataSyn(86e656f0, 871c7df0, 6354) [in]
+[2024/10/15 09:29:47 606][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:47 611][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:47 611][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:47 611][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:47 611][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      961  Ivw_AppendDataSyn [out] 0
+[2024/10/15 09:29:47 611][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      855  Ivw_ResetSyn(86e656f0) [in]
+[2024/10/15 09:29:47 616][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      873  Ivw_ResetSyn(0) [out]
+[2024/10/15 09:29:47 616][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     941  QIVWAudioWrite() [out] 0
+[2024/10/15 09:29:49 278][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     858  QIVWAudioWrite(86e964b0,871c96d0,6400,1,) [in]
+[2024/10/15 09:29:49 279][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     865  QIVWAudioWrite session addr:(86e964b0)
+[2024/10/15 09:29:49 279][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      906  Ivw_AppendDataSyn(86e656f0, 871c96d0, 6400) [in]
+[2024/10/15 09:29:49 279][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:49 279][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:49 279][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:49 279][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:49 279][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      961  Ivw_AppendDataSyn [out] 0
+[2024/10/15 09:29:49 279][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     941  QIVWAudioWrite() [out] 0
+[2024/10/15 09:29:49 309][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     858  QIVWAudioWrite(86e964b0,871cafd0,6400,2,) [in]
+[2024/10/15 09:29:49 309][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     865  QIVWAudioWrite session addr:(86e964b0)
+[2024/10/15 09:29:49 309][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      906  Ivw_AppendDataSyn(86e656f0, 871cafd0, 6400) [in]
+[2024/10/15 09:29:49 310][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:49 316][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:49 316][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:49 316][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:49 316][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      961  Ivw_AppendDataSyn [out] 0
+[2024/10/15 09:29:49 316][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     941  QIVWAudioWrite() [out] 0
+[2024/10/15 09:29:49 347][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     858  QIVWAudioWrite(86e964b0,871cc8d0,6400,2,) [in]
+[2024/10/15 09:29:49 347][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     865  QIVWAudioWrite session addr:(86e964b0)
+[2024/10/15 09:29:49 347][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      906  Ivw_AppendDataSyn(86e656f0, 871cc8d0, 6400) [in]
+[2024/10/15 09:29:49 355][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:49 355][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:49 355][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:49 361][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:49 361][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      961  Ivw_AppendDataSyn [out] 0
+[2024/10/15 09:29:49 361][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     941  QIVWAudioWrite() [out] 0
+[2024/10/15 09:29:49 392][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     858  QIVWAudioWrite(86e964b0,871ce1d0,6400,2,) [in]
+[2024/10/15 09:29:49 392][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     865  QIVWAudioWrite session addr:(86e964b0)
+[2024/10/15 09:29:49 392][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      906  Ivw_AppendDataSyn(86e656f0, 871ce1d0, 6400) [in]
+[2024/10/15 09:29:49 392][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:49 392][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:49 398][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:49 399][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:49 399][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      961  Ivw_AppendDataSyn [out] 0
+[2024/10/15 09:29:49 399][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     941  QIVWAudioWrite() [out] 0
+[2024/10/15 09:29:49 429][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     858  QIVWAudioWrite(86e964b0,871cfad0,6400,2,) [in]
+[2024/10/15 09:29:49 429][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     865  QIVWAudioWrite session addr:(86e964b0)
+[2024/10/15 09:29:49 429][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      906  Ivw_AppendDataSyn(86e656f0, 871cfad0, 6400) [in]
+[2024/10/15 09:29:49 429][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:49 435][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:49 435][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:49 436][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:49 436][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      961  Ivw_AppendDataSyn [out] 0
+[2024/10/15 09:29:49 436][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     941  QIVWAudioWrite() [out] 0
+[2024/10/15 09:29:49 466][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     858  QIVWAudioWrite(86e964b0,871d13d0,6400,2,) [in]
+[2024/10/15 09:29:49 466][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     865  QIVWAudioWrite session addr:(86e964b0)
+[2024/10/15 09:29:49 466][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      906  Ivw_AppendDataSyn(86e656f0, 871d13d0, 6400) [in]
+[2024/10/15 09:29:49 466][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:49 475][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:49 475][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:49 475][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:49 475][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      961  Ivw_AppendDataSyn [out] 0
+[2024/10/15 09:29:49 475][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     941  QIVWAudioWrite() [out] 0
+[2024/10/15 09:29:49 506][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     858  QIVWAudioWrite(86e964b0,871d2cd0,6400,2,) [in]
+[2024/10/15 09:29:49 506][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     865  QIVWAudioWrite session addr:(86e964b0)
+[2024/10/15 09:29:49 506][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      906  Ivw_AppendDataSyn(86e656f0, 871d2cd0, 6400) [in]
+[2024/10/15 09:29:49 512][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:49 512][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:49 512][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:49 517][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:49 517][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      961  Ivw_AppendDataSyn [out] 0
+[2024/10/15 09:29:49 517][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     941  QIVWAudioWrite() [out] 0
+[2024/10/15 09:29:49 547][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     858  QIVWAudioWrite(86e964b0,871d45d0,6400,2,) [in]
+[2024/10/15 09:29:49 547][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     865  QIVWAudioWrite session addr:(86e964b0)
+[2024/10/15 09:29:49 547][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      906  Ivw_AppendDataSyn(86e656f0, 871d45d0, 6400) [in]
+[2024/10/15 09:29:49 548][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:49 548][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:49 552][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:49 552][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:49 552][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      961  Ivw_AppendDataSyn [out] 0
+[2024/10/15 09:29:49 552][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     941  QIVWAudioWrite() [out] 0
+[2024/10/15 09:29:49 583][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     858  QIVWAudioWrite(86e964b0,871d5ed0,6400,2,) [in]
+[2024/10/15 09:29:49 583][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     865  QIVWAudioWrite session addr:(86e964b0)
+[2024/10/15 09:29:49 583][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      906  Ivw_AppendDataSyn(86e656f0, 871d5ed0, 6400) [in]
+[2024/10/15 09:29:49 583][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:49 589][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:49 589][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:49 589][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:49 589][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      961  Ivw_AppendDataSyn [out] 0
+[2024/10/15 09:29:49 589][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     941  QIVWAudioWrite() [out] 0
+[2024/10/15 09:29:49 620][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     858  QIVWAudioWrite(86e964b0,871d77d0,6354,4,) [in]
+[2024/10/15 09:29:49 620][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     865  QIVWAudioWrite session addr:(86e964b0)
+[2024/10/15 09:29:49 620][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      906  Ivw_AppendDataSyn(86e656f0, 871d77d0, 6354) [in]
+[2024/10/15 09:29:49 620][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:49 626][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:49 626][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:49 626][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:49 626][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      961  Ivw_AppendDataSyn [out] 0
+[2024/10/15 09:29:49 626][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      855  Ivw_ResetSyn(86e656f0) [in]
+[2024/10/15 09:29:49 633][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      873  Ivw_ResetSyn(0) [out]
+[2024/10/15 09:29:49 633][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     941  QIVWAudioWrite() [out] 0
+[2024/10/15 09:29:51 269][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     858  QIVWAudioWrite(86e964b0,871d90b0,6400,1,) [in]
+[2024/10/15 09:29:51 269][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     865  QIVWAudioWrite session addr:(86e964b0)
+[2024/10/15 09:29:51 269][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      906  Ivw_AppendDataSyn(86e656f0, 871d90b0, 6400) [in]
+[2024/10/15 09:29:51 269][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:51 269][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:51 269][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:51 269][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:51 269][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      961  Ivw_AppendDataSyn [out] 0
+[2024/10/15 09:29:51 269][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     941  QIVWAudioWrite() [out] 0
+[2024/10/15 09:29:51 300][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     858  QIVWAudioWrite(86e964b0,871da9b0,6400,2,) [in]
+[2024/10/15 09:29:51 300][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     865  QIVWAudioWrite session addr:(86e964b0)
+[2024/10/15 09:29:51 300][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      906  Ivw_AppendDataSyn(86e656f0, 871da9b0, 6400) [in]
+[2024/10/15 09:29:51 300][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:51 304][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:51 304][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:51 304][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:51 304][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      961  Ivw_AppendDataSyn [out] 0
+[2024/10/15 09:29:51 304][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     941  QIVWAudioWrite() [out] 0
+[2024/10/15 09:29:51 335][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     858  QIVWAudioWrite(86e964b0,871dc2b0,6400,2,) [in]
+[2024/10/15 09:29:51 335][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     865  QIVWAudioWrite session addr:(86e964b0)
+[2024/10/15 09:29:51 335][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      906  Ivw_AppendDataSyn(86e656f0, 871dc2b0, 6400) [in]
+[2024/10/15 09:29:51 340][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:51 340][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:51 340][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:51 344][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:51 344][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      961  Ivw_AppendDataSyn [out] 0
+[2024/10/15 09:29:51 344][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     941  QIVWAudioWrite() [out] 0
+[2024/10/15 09:29:51 374][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     858  QIVWAudioWrite(86e964b0,871ddbb0,6400,2,) [in]
+[2024/10/15 09:29:51 374][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     865  QIVWAudioWrite session addr:(86e964b0)
+[2024/10/15 09:29:51 374][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      906  Ivw_AppendDataSyn(86e656f0, 871ddbb0, 6400) [in]
+[2024/10/15 09:29:51 374][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:51 374][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:51 379][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:51 379][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:51 379][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      961  Ivw_AppendDataSyn [out] 0
+[2024/10/15 09:29:51 379][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     941  QIVWAudioWrite() [out] 0
+[2024/10/15 09:29:51 410][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     858  QIVWAudioWrite(86e964b0,871df4b0,6400,2,) [in]
+[2024/10/15 09:29:51 410][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     865  QIVWAudioWrite session addr:(86e964b0)
+[2024/10/15 09:29:51 410][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      906  Ivw_AppendDataSyn(86e656f0, 871df4b0, 6400) [in]
+[2024/10/15 09:29:51 410][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:51 413][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:51 413][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:51 413][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:51 413][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      961  Ivw_AppendDataSyn [out] 0
+[2024/10/15 09:29:51 413][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     941  QIVWAudioWrite() [out] 0
+[2024/10/15 09:29:51 444][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     858  QIVWAudioWrite(86e964b0,871e0db0,6400,2,) [in]
+[2024/10/15 09:29:51 444][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     865  QIVWAudioWrite session addr:(86e964b0)
+[2024/10/15 09:29:51 444][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      906  Ivw_AppendDataSyn(86e656f0, 871e0db0, 6400) [in]
+[2024/10/15 09:29:51 444][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:51 449][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:51 449][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:51 449][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:51 449][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      961  Ivw_AppendDataSyn [out] 0
+[2024/10/15 09:29:51 449][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     941  QIVWAudioWrite() [out] 0
+[2024/10/15 09:29:51 479][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     858  QIVWAudioWrite(86e964b0,871e26b0,6400,2,) [in]
+[2024/10/15 09:29:51 479][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     865  QIVWAudioWrite session addr:(86e964b0)
+[2024/10/15 09:29:51 479][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      906  Ivw_AppendDataSyn(86e656f0, 871e26b0, 6400) [in]
+[2024/10/15 09:29:51 484][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:51 484][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:51 484][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:51 488][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:51 488][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      961  Ivw_AppendDataSyn [out] 0
+[2024/10/15 09:29:51 488][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     941  QIVWAudioWrite() [out] 0
+[2024/10/15 09:29:51 518][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     858  QIVWAudioWrite(86e964b0,871e3fb0,6400,2,) [in]
+[2024/10/15 09:29:51 518][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     865  QIVWAudioWrite session addr:(86e964b0)
+[2024/10/15 09:29:51 518][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      906  Ivw_AppendDataSyn(86e656f0, 871e3fb0, 6400) [in]
+[2024/10/15 09:29:51 518][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:51 518][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:51 523][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:51 523][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:51 523][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      961  Ivw_AppendDataSyn [out] 0
+[2024/10/15 09:29:51 523][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     941  QIVWAudioWrite() [out] 0
+[2024/10/15 09:29:51 554][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     858  QIVWAudioWrite(86e964b0,871e58b0,6400,2,) [in]
+[2024/10/15 09:29:51 554][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     865  QIVWAudioWrite session addr:(86e964b0)
+[2024/10/15 09:29:51 554][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      906  Ivw_AppendDataSyn(86e656f0, 871e58b0, 6400) [in]
+[2024/10/15 09:29:51 554][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:51 562][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:51 562][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:51 562][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:51 562][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      961  Ivw_AppendDataSyn [out] 0
+[2024/10/15 09:29:51 562][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     941  QIVWAudioWrite() [out] 0
+[2024/10/15 09:29:51 592][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     858  QIVWAudioWrite(86e964b0,871e71b0,6354,4,) [in]
+[2024/10/15 09:29:51 592][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     865  QIVWAudioWrite session addr:(86e964b0)
+[2024/10/15 09:29:51 592][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      906  Ivw_AppendDataSyn(86e656f0, 871e71b0, 6354) [in]
+[2024/10/15 09:29:51 592][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:51 599][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:51 599][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:51 599][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:51 599][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      961  Ivw_AppendDataSyn [out] 0
+[2024/10/15 09:29:51 599][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      855  Ivw_ResetSyn(86e656f0) [in]
+[2024/10/15 09:29:51 605][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      873  Ivw_ResetSyn(0) [out]
+[2024/10/15 09:29:51 605][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     941  QIVWAudioWrite() [out] 0
+[2024/10/15 09:29:53 279][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     858  QIVWAudioWrite(86e964b0,871e8a90,6400,1,) [in]
+[2024/10/15 09:29:53 279][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     865  QIVWAudioWrite session addr:(86e964b0)
+[2024/10/15 09:29:53 279][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      906  Ivw_AppendDataSyn(86e656f0, 871e8a90, 6400) [in]
+[2024/10/15 09:29:53 279][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:53 279][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:53 280][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:53 280][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:53 280][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      961  Ivw_AppendDataSyn [out] 0
+[2024/10/15 09:29:53 280][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     941  QIVWAudioWrite() [out] 0
+[2024/10/15 09:29:53 310][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     858  QIVWAudioWrite(86e964b0,871ea390,6400,2,) [in]
+[2024/10/15 09:29:53 310][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     865  QIVWAudioWrite session addr:(86e964b0)
+[2024/10/15 09:29:53 310][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      906  Ivw_AppendDataSyn(86e656f0, 871ea390, 6400) [in]
+[2024/10/15 09:29:53 310][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:53 316][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:53 316][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:53 316][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:53 316][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      961  Ivw_AppendDataSyn [out] 0
+[2024/10/15 09:29:53 316][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     941  QIVWAudioWrite() [out] 0
+[2024/10/15 09:29:53 347][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     858  QIVWAudioWrite(86e964b0,871ebc90,6400,2,) [in]
+[2024/10/15 09:29:53 347][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     865  QIVWAudioWrite session addr:(86e964b0)
+[2024/10/15 09:29:53 347][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      906  Ivw_AppendDataSyn(86e656f0, 871ebc90, 6400) [in]
+[2024/10/15 09:29:53 353][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:53 353][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:53 353][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:53 357][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:53 357][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      961  Ivw_AppendDataSyn [out] 0
+[2024/10/15 09:29:53 357][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     941  QIVWAudioWrite() [out] 0
+[2024/10/15 09:29:53 388][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     858  QIVWAudioWrite(86e964b0,871ed590,6400,2,) [in]
+[2024/10/15 09:29:53 388][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     865  QIVWAudioWrite session addr:(86e964b0)
+[2024/10/15 09:29:53 388][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      906  Ivw_AppendDataSyn(86e656f0, 871ed590, 6400) [in]
+[2024/10/15 09:29:53 388][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:53 388][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:53 392][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:53 393][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:53 393][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      961  Ivw_AppendDataSyn [out] 0
+[2024/10/15 09:29:53 393][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     941  QIVWAudioWrite() [out] 0
+[2024/10/15 09:29:53 423][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     858  QIVWAudioWrite(86e964b0,871eee90,6400,2,) [in]
+[2024/10/15 09:29:53 423][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     865  QIVWAudioWrite session addr:(86e964b0)
+[2024/10/15 09:29:53 423][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      906  Ivw_AppendDataSyn(86e656f0, 871eee90, 6400) [in]
+[2024/10/15 09:29:53 423][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:53 427][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:53 427][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:53 427][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:53 427][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      961  Ivw_AppendDataSyn [out] 0
+[2024/10/15 09:29:53 427][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     941  QIVWAudioWrite() [out] 0
+[2024/10/15 09:29:53 457][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     858  QIVWAudioWrite(86e964b0,871f0790,6400,2,) [in]
+[2024/10/15 09:29:53 457][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     865  QIVWAudioWrite session addr:(86e964b0)
+[2024/10/15 09:29:53 457][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      906  Ivw_AppendDataSyn(86e656f0, 871f0790, 6400) [in]
+[2024/10/15 09:29:53 457][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:53 464][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:53 464][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:53 464][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:53 464][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      961  Ivw_AppendDataSyn [out] 0
+[2024/10/15 09:29:53 464][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     941  QIVWAudioWrite() [out] 0
+[2024/10/15 09:29:53 494][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     858  QIVWAudioWrite(86e964b0,871f2090,6400,2,) [in]
+[2024/10/15 09:29:53 494][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     865  QIVWAudioWrite session addr:(86e964b0)
+[2024/10/15 09:29:53 494][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      906  Ivw_AppendDataSyn(86e656f0, 871f2090, 6400) [in]
+[2024/10/15 09:29:53 500][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:53 501][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:53 501][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:53 505][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:53 505][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      961  Ivw_AppendDataSyn [out] 0
+[2024/10/15 09:29:53 505][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     941  QIVWAudioWrite() [out] 0
+[2024/10/15 09:29:53 536][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     858  QIVWAudioWrite(86e964b0,871f3990,6400,2,) [in]
+[2024/10/15 09:29:53 536][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     865  QIVWAudioWrite session addr:(86e964b0)
+[2024/10/15 09:29:53 536][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      906  Ivw_AppendDataSyn(86e656f0, 871f3990, 6400) [in]
+[2024/10/15 09:29:53 536][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:53 536][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:53 542][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:53 542][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:53 542][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      961  Ivw_AppendDataSyn [out] 0
+[2024/10/15 09:29:53 542][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     941  QIVWAudioWrite() [out] 0
+[2024/10/15 09:29:53 572][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     858  QIVWAudioWrite(86e964b0,871f5290,6400,2,) [in]
+[2024/10/15 09:29:53 572][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     865  QIVWAudioWrite session addr:(86e964b0)
+[2024/10/15 09:29:53 572][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      906  Ivw_AppendDataSyn(86e656f0, 871f5290, 6400) [in]
+[2024/10/15 09:29:53 572][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:53 576][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:53 577][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:53 577][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:53 577][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      961  Ivw_AppendDataSyn [out] 0
+[2024/10/15 09:29:53 577][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     941  QIVWAudioWrite() [out] 0
+[2024/10/15 09:29:53 607][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     858  QIVWAudioWrite(86e964b0,871f6b90,6354,4,) [in]
+[2024/10/15 09:29:53 607][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     865  QIVWAudioWrite session addr:(86e964b0)
+[2024/10/15 09:29:53 607][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      906  Ivw_AppendDataSyn(86e656f0, 871f6b90, 6354) [in]
+[2024/10/15 09:29:53 607][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:53 612][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:53 612][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:53 612][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:53 612][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      961  Ivw_AppendDataSyn [out] 0
+[2024/10/15 09:29:53 612][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      855  Ivw_ResetSyn(86e656f0) [in]
+[2024/10/15 09:29:53 617][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      873  Ivw_ResetSyn(0) [out]
+[2024/10/15 09:29:53 617][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     941  QIVWAudioWrite() [out] 0
+[2024/10/15 09:29:55 273][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     858  QIVWAudioWrite(86e964b0,871f8470,6400,1,) [in]
+[2024/10/15 09:29:55 273][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     865  QIVWAudioWrite session addr:(86e964b0)
+[2024/10/15 09:29:55 273][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      906  Ivw_AppendDataSyn(86e656f0, 871f8470, 6400) [in]
+[2024/10/15 09:29:55 274][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:55 274][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:55 274][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:55 274][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:55 274][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      961  Ivw_AppendDataSyn [out] 0
+[2024/10/15 09:29:55 274][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     941  QIVWAudioWrite() [out] 0
+[2024/10/15 09:29:55 305][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     858  QIVWAudioWrite(86e964b0,871f9d70,6400,2,) [in]
+[2024/10/15 09:29:55 305][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     865  QIVWAudioWrite session addr:(86e964b0)
+[2024/10/15 09:29:55 305][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      906  Ivw_AppendDataSyn(86e656f0, 871f9d70, 6400) [in]
+[2024/10/15 09:29:55 305][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:55 314][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:55 314][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:55 314][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:55 314][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      961  Ivw_AppendDataSyn [out] 0
+[2024/10/15 09:29:55 314][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     941  QIVWAudioWrite() [out] 0
+[2024/10/15 09:29:55 344][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     858  QIVWAudioWrite(86e964b0,871fb670,6400,2,) [in]
+[2024/10/15 09:29:55 344][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     865  QIVWAudioWrite session addr:(86e964b0)
+[2024/10/15 09:29:55 345][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      906  Ivw_AppendDataSyn(86e656f0, 871fb670, 6400) [in]
+[2024/10/15 09:29:55 352][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:55 352][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:55 352][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:55 357][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:55 357][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      961  Ivw_AppendDataSyn [out] 0
+[2024/10/15 09:29:55 357][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     941  QIVWAudioWrite() [out] 0
+[2024/10/15 09:29:55 387][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     858  QIVWAudioWrite(86e964b0,871fcf70,6400,2,) [in]
+[2024/10/15 09:29:55 387][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     865  QIVWAudioWrite session addr:(86e964b0)
+[2024/10/15 09:29:55 387][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      906  Ivw_AppendDataSyn(86e656f0, 871fcf70, 6400) [in]
+[2024/10/15 09:29:55 388][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:55 388][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:55 394][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:55 394][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:55 394][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      961  Ivw_AppendDataSyn [out] 0
+[2024/10/15 09:29:55 394][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     941  QIVWAudioWrite() [out] 0
+[2024/10/15 09:29:55 424][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     858  QIVWAudioWrite(86e964b0,871fe870,6400,2,) [in]
+[2024/10/15 09:29:55 424][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     865  QIVWAudioWrite session addr:(86e964b0)
+[2024/10/15 09:29:55 424][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      906  Ivw_AppendDataSyn(86e656f0, 871fe870, 6400) [in]
+[2024/10/15 09:29:55 424][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:55 431][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:55 431][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:55 431][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:55 431][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      961  Ivw_AppendDataSyn [out] 0
+[2024/10/15 09:29:55 431][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     941  QIVWAudioWrite() [out] 0
+[2024/10/15 09:29:55 461][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     858  QIVWAudioWrite(86e964b0,87200170,6400,2,) [in]
+[2024/10/15 09:29:55 461][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     865  QIVWAudioWrite session addr:(86e964b0)
+[2024/10/15 09:29:55 461][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      906  Ivw_AppendDataSyn(86e656f0, 87200170, 6400) [in]
+[2024/10/15 09:29:55 461][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:55 468][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:55 468][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:55 468][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:55 468][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      961  Ivw_AppendDataSyn [out] 0
+[2024/10/15 09:29:55 468][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     941  QIVWAudioWrite() [out] 0
+[2024/10/15 09:29:55 498][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     858  QIVWAudioWrite(86e964b0,87201a70,6400,2,) [in]
+[2024/10/15 09:29:55 498][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     865  QIVWAudioWrite session addr:(86e964b0)
+[2024/10/15 09:29:55 499][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      906  Ivw_AppendDataSyn(86e656f0, 87201a70, 6400) [in]
+[2024/10/15 09:29:55 504][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:55 504][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:55 504][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:55 510][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:55 510][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      961  Ivw_AppendDataSyn [out] 0
+[2024/10/15 09:29:55 510][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     941  QIVWAudioWrite() [out] 0
+[2024/10/15 09:29:55 540][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     858  QIVWAudioWrite(86e964b0,87203370,6400,2,) [in]
+[2024/10/15 09:29:55 540][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     865  QIVWAudioWrite session addr:(86e964b0)
+[2024/10/15 09:29:55 540][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      906  Ivw_AppendDataSyn(86e656f0, 87203370, 6400) [in]
+[2024/10/15 09:29:55 540][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:55 541][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:55 546][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:55 546][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:55 546][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      961  Ivw_AppendDataSyn [out] 0
+[2024/10/15 09:29:55 546][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     941  QIVWAudioWrite() [out] 0
+[2024/10/15 09:29:55 577][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     858  QIVWAudioWrite(86e964b0,87204c70,6400,2,) [in]
+[2024/10/15 09:29:55 577][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     865  QIVWAudioWrite session addr:(86e964b0)
+[2024/10/15 09:29:55 577][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      906  Ivw_AppendDataSyn(86e656f0, 87204c70, 6400) [in]
+[2024/10/15 09:29:55 577][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:55 582][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:55 582][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:55 582][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:55 582][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      961  Ivw_AppendDataSyn [out] 0
+[2024/10/15 09:29:55 582][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     941  QIVWAudioWrite() [out] 0
+[2024/10/15 09:29:55 613][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     858  QIVWAudioWrite(86e964b0,87206570,6354,4,) [in]
+[2024/10/15 09:29:55 613][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     865  QIVWAudioWrite session addr:(86e964b0)
+[2024/10/15 09:29:55 613][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      906  Ivw_AppendDataSyn(86e656f0, 87206570, 6354) [in]
+[2024/10/15 09:29:55 613][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:55 620][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:55 620][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:55 620][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:55 620][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      961  Ivw_AppendDataSyn [out] 0
+[2024/10/15 09:29:55 620][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      855  Ivw_ResetSyn(86e656f0) [in]
+[2024/10/15 09:29:55 628][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      873  Ivw_ResetSyn(0) [out]
+[2024/10/15 09:29:55 628][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     941  QIVWAudioWrite() [out] 0
+[2024/10/15 09:29:57 268][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     858  QIVWAudioWrite(86e964b0,87207e50,6400,1,) [in]
+[2024/10/15 09:29:57 269][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     865  QIVWAudioWrite session addr:(86e964b0)
+[2024/10/15 09:29:57 269][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      906  Ivw_AppendDataSyn(86e656f0, 87207e50, 6400) [in]
+[2024/10/15 09:29:57 269][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:57 269][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:57 269][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:57 269][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:57 269][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      961  Ivw_AppendDataSyn [out] 0
+[2024/10/15 09:29:57 269][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     941  QIVWAudioWrite() [out] 0
+[2024/10/15 09:29:57 300][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     858  QIVWAudioWrite(86e964b0,87209750,6400,2,) [in]
+[2024/10/15 09:29:57 300][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     865  QIVWAudioWrite session addr:(86e964b0)
+[2024/10/15 09:29:57 300][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      906  Ivw_AppendDataSyn(86e656f0, 87209750, 6400) [in]
+[2024/10/15 09:29:57 300][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:57 306][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:57 306][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:57 306][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:57 306][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      961  Ivw_AppendDataSyn [out] 0
+[2024/10/15 09:29:57 306][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     941  QIVWAudioWrite() [out] 0
+[2024/10/15 09:29:57 337][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     858  QIVWAudioWrite(86e964b0,8720b050,6400,2,) [in]
+[2024/10/15 09:29:57 337][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     865  QIVWAudioWrite session addr:(86e964b0)
+[2024/10/15 09:29:57 337][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      906  Ivw_AppendDataSyn(86e656f0, 8720b050, 6400) [in]
+[2024/10/15 09:29:57 343][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:57 343][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:57 343][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:57 348][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:57 348][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      961  Ivw_AppendDataSyn [out] 0
+[2024/10/15 09:29:57 348][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     941  QIVWAudioWrite() [out] 0
+[2024/10/15 09:29:57 378][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     858  QIVWAudioWrite(86e964b0,8720c950,6400,2,) [in]
+[2024/10/15 09:29:57 378][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     865  QIVWAudioWrite session addr:(86e964b0)
+[2024/10/15 09:29:57 378][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      906  Ivw_AppendDataSyn(86e656f0, 8720c950, 6400) [in]
+[2024/10/15 09:29:57 379][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:57 379][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:57 384][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:57 384][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:57 384][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      961  Ivw_AppendDataSyn [out] 0
+[2024/10/15 09:29:57 384][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     941  QIVWAudioWrite() [out] 0
+[2024/10/15 09:29:57 415][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     858  QIVWAudioWrite(86e964b0,8720e250,6400,2,) [in]
+[2024/10/15 09:29:57 415][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     865  QIVWAudioWrite session addr:(86e964b0)
+[2024/10/15 09:29:57 415][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      906  Ivw_AppendDataSyn(86e656f0, 8720e250, 6400) [in]
+[2024/10/15 09:29:57 415][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:57 421][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:57 421][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:57 421][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:57 421][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      961  Ivw_AppendDataSyn [out] 0
+[2024/10/15 09:29:57 421][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     941  QIVWAudioWrite() [out] 0
+[2024/10/15 09:29:57 452][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     858  QIVWAudioWrite(86e964b0,8720fb50,6400,2,) [in]
+[2024/10/15 09:29:57 452][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     865  QIVWAudioWrite session addr:(86e964b0)
+[2024/10/15 09:29:57 452][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      906  Ivw_AppendDataSyn(86e656f0, 8720fb50, 6400) [in]
+[2024/10/15 09:29:57 452][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:57 459][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:57 459][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:57 459][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:57 459][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      961  Ivw_AppendDataSyn [out] 0
+[2024/10/15 09:29:57 459][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     941  QIVWAudioWrite() [out] 0
+[2024/10/15 09:29:57 490][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     858  QIVWAudioWrite(86e964b0,87211450,6400,2,) [in]
+[2024/10/15 09:29:57 490][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     865  QIVWAudioWrite session addr:(86e964b0)
+[2024/10/15 09:29:57 490][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      906  Ivw_AppendDataSyn(86e656f0, 87211450, 6400) [in]
+[2024/10/15 09:29:57 494][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:57 494][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:57 494][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:57 497][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:57 497][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      961  Ivw_AppendDataSyn [out] 0
+[2024/10/15 09:29:57 497][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     941  QIVWAudioWrite() [out] 0
+[2024/10/15 09:29:57 528][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     858  QIVWAudioWrite(86e964b0,87212d50,6400,2,) [in]
+[2024/10/15 09:29:57 528][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     865  QIVWAudioWrite session addr:(86e964b0)
+[2024/10/15 09:29:57 528][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      906  Ivw_AppendDataSyn(86e656f0, 87212d50, 6400) [in]
+[2024/10/15 09:29:57 528][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:57 529][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:57 534][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:57 534][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:57 534][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      961  Ivw_AppendDataSyn [out] 0
+[2024/10/15 09:29:57 534][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     941  QIVWAudioWrite() [out] 0
+[2024/10/15 09:29:57 565][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     858  QIVWAudioWrite(86e964b0,87214650,6400,2,) [in]
+[2024/10/15 09:29:57 565][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     865  QIVWAudioWrite session addr:(86e964b0)
+[2024/10/15 09:29:57 565][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      906  Ivw_AppendDataSyn(86e656f0, 87214650, 6400) [in]
+[2024/10/15 09:29:57 565][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:57 573][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:57 574][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:57 574][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:57 574][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      961  Ivw_AppendDataSyn [out] 0
+[2024/10/15 09:29:57 574][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     941  QIVWAudioWrite() [out] 0
+[2024/10/15 09:29:57 604][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     858  QIVWAudioWrite(86e964b0,87215f50,6354,4,) [in]
+[2024/10/15 09:29:57 604][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     865  QIVWAudioWrite session addr:(86e964b0)
+[2024/10/15 09:29:57 604][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      906  Ivw_AppendDataSyn(86e656f0, 87215f50, 6354) [in]
+[2024/10/15 09:29:57 605][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:57 612][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:57 612][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:57 612][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:57 612][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      961  Ivw_AppendDataSyn [out] 0
+[2024/10/15 09:29:57 612][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      855  Ivw_ResetSyn(86e656f0) [in]
+[2024/10/15 09:29:57 619][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      873  Ivw_ResetSyn(0) [out]
+[2024/10/15 09:29:57 619][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     941  QIVWAudioWrite() [out] 0
+[2024/10/15 09:29:59 276][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     858  QIVWAudioWrite(86e964b0,87217830,6400,1,) [in]
+[2024/10/15 09:29:59 276][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     865  QIVWAudioWrite session addr:(86e964b0)
+[2024/10/15 09:29:59 276][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      906  Ivw_AppendDataSyn(86e656f0, 87217830, 6400) [in]
+[2024/10/15 09:29:59 276][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:59 276][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:59 277][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:59 277][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:59 277][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      961  Ivw_AppendDataSyn [out] 0
+[2024/10/15 09:29:59 277][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     941  QIVWAudioWrite() [out] 0
+[2024/10/15 09:29:59 307][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     858  QIVWAudioWrite(86e964b0,87219130,6400,2,) [in]
+[2024/10/15 09:29:59 307][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     865  QIVWAudioWrite session addr:(86e964b0)
+[2024/10/15 09:29:59 307][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      906  Ivw_AppendDataSyn(86e656f0, 87219130, 6400) [in]
+[2024/10/15 09:29:59 307][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:59 315][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:59 315][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:59 315][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:59 315][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      961  Ivw_AppendDataSyn [out] 0
+[2024/10/15 09:29:59 315][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     941  QIVWAudioWrite() [out] 0
+[2024/10/15 09:29:59 346][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     858  QIVWAudioWrite(86e964b0,8721aa30,6400,2,) [in]
+[2024/10/15 09:29:59 346][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     865  QIVWAudioWrite session addr:(86e964b0)
+[2024/10/15 09:29:59 346][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      906  Ivw_AppendDataSyn(86e656f0, 8721aa30, 6400) [in]
+[2024/10/15 09:29:59 352][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:59 353][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:59 353][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:59 356][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:59 356][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      961  Ivw_AppendDataSyn [out] 0
+[2024/10/15 09:29:59 356][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     941  QIVWAudioWrite() [out] 0
+[2024/10/15 09:29:59 387][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     858  QIVWAudioWrite(86e964b0,8721c330,6400,2,) [in]
+[2024/10/15 09:29:59 387][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     865  QIVWAudioWrite session addr:(86e964b0)
+[2024/10/15 09:29:59 387][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      906  Ivw_AppendDataSyn(86e656f0, 8721c330, 6400) [in]
+[2024/10/15 09:29:59 387][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:59 387][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:59 393][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:59 393][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:59 393][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      961  Ivw_AppendDataSyn [out] 0
+[2024/10/15 09:29:59 393][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     941  QIVWAudioWrite() [out] 0
+[2024/10/15 09:29:59 423][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     858  QIVWAudioWrite(86e964b0,8721dc30,6400,2,) [in]
+[2024/10/15 09:29:59 423][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     865  QIVWAudioWrite session addr:(86e964b0)
+[2024/10/15 09:29:59 423][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      906  Ivw_AppendDataSyn(86e656f0, 8721dc30, 6400) [in]
+[2024/10/15 09:29:59 424][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:59 427][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:59 427][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:59 428][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:59 428][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      961  Ivw_AppendDataSyn [out] 0
+[2024/10/15 09:29:59 428][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     941  QIVWAudioWrite() [out] 0
+[2024/10/15 09:29:59 458][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     858  QIVWAudioWrite(86e964b0,8721f530,6400,2,) [in]
+[2024/10/15 09:29:59 458][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     865  QIVWAudioWrite session addr:(86e964b0)
+[2024/10/15 09:29:59 458][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      906  Ivw_AppendDataSyn(86e656f0, 8721f530, 6400) [in]
+[2024/10/15 09:29:59 458][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:59 464][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:59 464][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:59 464][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:59 464][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      961  Ivw_AppendDataSyn [out] 0
+[2024/10/15 09:29:59 464][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     941  QIVWAudioWrite() [out] 0
+[2024/10/15 09:29:59 495][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     858  QIVWAudioWrite(86e964b0,87220e30,6400,2,) [in]
+[2024/10/15 09:29:59 495][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     865  QIVWAudioWrite session addr:(86e964b0)
+[2024/10/15 09:29:59 495][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      906  Ivw_AppendDataSyn(86e656f0, 87220e30, 6400) [in]
+[2024/10/15 09:29:59 499][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:59 499][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:59 499][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:59 502][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:59 502][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      961  Ivw_AppendDataSyn [out] 0
+[2024/10/15 09:29:59 502][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     941  QIVWAudioWrite() [out] 0
+[2024/10/15 09:29:59 532][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     858  QIVWAudioWrite(86e964b0,87222730,6400,2,) [in]
+[2024/10/15 09:29:59 532][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     865  QIVWAudioWrite session addr:(86e964b0)
+[2024/10/15 09:29:59 532][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      906  Ivw_AppendDataSyn(86e656f0, 87222730, 6400) [in]
+[2024/10/15 09:29:59 532][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:59 532][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:59 536][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:59 536][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:59 536][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      961  Ivw_AppendDataSyn [out] 0
+[2024/10/15 09:29:59 536][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     941  QIVWAudioWrite() [out] 0
+[2024/10/15 09:29:59 567][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     858  QIVWAudioWrite(86e964b0,87224030,6400,2,) [in]
+[2024/10/15 09:29:59 567][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     865  QIVWAudioWrite session addr:(86e964b0)
+[2024/10/15 09:29:59 567][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      906  Ivw_AppendDataSyn(86e656f0, 87224030, 6400) [in]
+[2024/10/15 09:29:59 567][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:59 573][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:59 573][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:59 573][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:59 573][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      961  Ivw_AppendDataSyn [out] 0
+[2024/10/15 09:29:59 573][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     941  QIVWAudioWrite() [out] 0
+[2024/10/15 09:29:59 603][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     858  QIVWAudioWrite(86e964b0,87225930,6354,4,) [in]
+[2024/10/15 09:29:59 604][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     865  QIVWAudioWrite session addr:(86e964b0)
+[2024/10/15 09:29:59 604][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      906  Ivw_AppendDataSyn(86e656f0, 87225930, 6354) [in]
+[2024/10/15 09:29:59 604][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:59 608][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:59 608][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:59 608][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:29:59 608][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      961  Ivw_AppendDataSyn [out] 0
+[2024/10/15 09:29:59 608][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      855  Ivw_ResetSyn(86e656f0) [in]
+[2024/10/15 09:29:59 613][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      873  Ivw_ResetSyn(0) [out]
+[2024/10/15 09:29:59 613][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     941  QIVWAudioWrite() [out] 0
+[2024/10/15 09:30:01 271][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     858  QIVWAudioWrite(86e964b0,87227210,6400,1,) [in]
+[2024/10/15 09:30:01 271][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     865  QIVWAudioWrite session addr:(86e964b0)
+[2024/10/15 09:30:01 271][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      906  Ivw_AppendDataSyn(86e656f0, 87227210, 6400) [in]
+[2024/10/15 09:30:01 271][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:30:01 271][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:30:01 271][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:30:01 271][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:30:01 271][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      961  Ivw_AppendDataSyn [out] 0
+[2024/10/15 09:30:01 271][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     941  QIVWAudioWrite() [out] 0
+[2024/10/15 09:30:01 302][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     858  QIVWAudioWrite(86e964b0,87228b10,6400,2,) [in]
+[2024/10/15 09:30:01 302][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     865  QIVWAudioWrite session addr:(86e964b0)
+[2024/10/15 09:30:01 302][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      906  Ivw_AppendDataSyn(86e656f0, 87228b10, 6400) [in]
+[2024/10/15 09:30:01 302][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:30:01 308][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:30:01 308][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:30:01 309][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:30:01 309][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      961  Ivw_AppendDataSyn [out] 0
+[2024/10/15 09:30:01 309][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     941  QIVWAudioWrite() [out] 0
+[2024/10/15 09:30:01 339][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     858  QIVWAudioWrite(86e964b0,8722a410,6400,2,) [in]
+[2024/10/15 09:30:01 339][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     865  QIVWAudioWrite session addr:(86e964b0)
+[2024/10/15 09:30:01 339][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      906  Ivw_AppendDataSyn(86e656f0, 8722a410, 6400) [in]
+[2024/10/15 09:30:01 346][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:30:01 346][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:30:01 347][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:30:01 352][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:30:01 352][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      961  Ivw_AppendDataSyn [out] 0
+[2024/10/15 09:30:01 352][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     941  QIVWAudioWrite() [out] 0
+[2024/10/15 09:30:01 382][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     858  QIVWAudioWrite(86e964b0,8722bd10,6400,2,) [in]
+[2024/10/15 09:30:01 382][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     865  QIVWAudioWrite session addr:(86e964b0)
+[2024/10/15 09:30:01 382][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      906  Ivw_AppendDataSyn(86e656f0, 8722bd10, 6400) [in]
+[2024/10/15 09:30:01 382][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:30:01 382][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:30:01 389][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:30:01 389][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:30:01 389][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      961  Ivw_AppendDataSyn [out] 0
+[2024/10/15 09:30:01 389][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     941  QIVWAudioWrite() [out] 0
+[2024/10/15 09:30:01 420][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     858  QIVWAudioWrite(86e964b0,8722d610,6400,2,) [in]
+[2024/10/15 09:30:01 420][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     865  QIVWAudioWrite session addr:(86e964b0)
+[2024/10/15 09:30:01 420][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      906  Ivw_AppendDataSyn(86e656f0, 8722d610, 6400) [in]
+[2024/10/15 09:30:01 420][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:30:01 428][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:30:01 428][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:30:01 428][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:30:01 428][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      961  Ivw_AppendDataSyn [out] 0
+[2024/10/15 09:30:01 428][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     941  QIVWAudioWrite() [out] 0
+[2024/10/15 09:30:01 459][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     858  QIVWAudioWrite(86e964b0,8722ef10,6400,2,) [in]
+[2024/10/15 09:30:01 459][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     865  QIVWAudioWrite session addr:(86e964b0)
+[2024/10/15 09:30:01 459][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      906  Ivw_AppendDataSyn(86e656f0, 8722ef10, 6400) [in]
+[2024/10/15 09:30:01 459][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:30:01 464][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:30:01 464][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:30:01 464][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:30:01 464][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      961  Ivw_AppendDataSyn [out] 0
+[2024/10/15 09:30:01 464][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     941  QIVWAudioWrite() [out] 0
+[2024/10/15 09:30:01 495][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     858  QIVWAudioWrite(86e964b0,87230810,6400,2,) [in]
+[2024/10/15 09:30:01 495][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     865  QIVWAudioWrite session addr:(86e964b0)
+[2024/10/15 09:30:01 495][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      906  Ivw_AppendDataSyn(86e656f0, 87230810, 6400) [in]
+[2024/10/15 09:30:01 501][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:30:01 501][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:30:01 501][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:30:01 505][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:30:01 505][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      961  Ivw_AppendDataSyn [out] 0
+[2024/10/15 09:30:01 505][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     941  QIVWAudioWrite() [out] 0
+[2024/10/15 09:30:01 536][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     858  QIVWAudioWrite(86e964b0,87232110,6400,2,) [in]
+[2024/10/15 09:30:01 536][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     865  QIVWAudioWrite session addr:(86e964b0)
+[2024/10/15 09:30:01 536][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      906  Ivw_AppendDataSyn(86e656f0, 87232110, 6400) [in]
+[2024/10/15 09:30:01 536][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:30:01 536][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:30:01 544][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:30:01 544][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:30:01 544][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      961  Ivw_AppendDataSyn [out] 0
+[2024/10/15 09:30:01 544][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     941  QIVWAudioWrite() [out] 0
+[2024/10/15 09:30:01 574][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     858  QIVWAudioWrite(86e964b0,87233a10,6400,2,) [in]
+[2024/10/15 09:30:01 574][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     865  QIVWAudioWrite session addr:(86e964b0)
+[2024/10/15 09:30:01 574][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      906  Ivw_AppendDataSyn(86e656f0, 87233a10, 6400) [in]
+[2024/10/15 09:30:01 575][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:30:01 579][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:30:01 579][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:30:01 579][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:30:01 579][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      961  Ivw_AppendDataSyn [out] 0
+[2024/10/15 09:30:01 579][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     941  QIVWAudioWrite() [out] 0
+[2024/10/15 09:30:01 610][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     858  QIVWAudioWrite(86e964b0,87235310,6354,4,) [in]
+[2024/10/15 09:30:01 610][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     865  QIVWAudioWrite session addr:(86e964b0)
+[2024/10/15 09:30:01 610][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      906  Ivw_AppendDataSyn(86e656f0, 87235310, 6354) [in]
+[2024/10/15 09:30:01 610][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:30:01 616][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:30:01 616][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:30:01 616][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:30:01 616][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      961  Ivw_AppendDataSyn [out] 0
+[2024/10/15 09:30:01 616][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      855  Ivw_ResetSyn(86e656f0) [in]
+[2024/10/15 09:30:01 625][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      873  Ivw_ResetSyn(0) [out]
+[2024/10/15 09:30:01 625][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     941  QIVWAudioWrite() [out] 0
+[2024/10/15 09:30:03 259][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     858  QIVWAudioWrite(86e964b0,87236bf0,6400,1,) [in]
+[2024/10/15 09:30:03 259][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     865  QIVWAudioWrite session addr:(86e964b0)
+[2024/10/15 09:30:03 259][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      906  Ivw_AppendDataSyn(86e656f0, 87236bf0, 6400) [in]
+[2024/10/15 09:30:03 259][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:30:03 259][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:30:03 260][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:30:03 260][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:30:03 260][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      961  Ivw_AppendDataSyn [out] 0
+[2024/10/15 09:30:03 260][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     941  QIVWAudioWrite() [out] 0
+[2024/10/15 09:30:03 290][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     858  QIVWAudioWrite(86e964b0,872384f0,6400,2,) [in]
+[2024/10/15 09:30:03 290][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     865  QIVWAudioWrite session addr:(86e964b0)
+[2024/10/15 09:30:03 290][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      906  Ivw_AppendDataSyn(86e656f0, 872384f0, 6400) [in]
+[2024/10/15 09:30:03 290][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:30:03 297][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:30:03 297][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:30:03 297][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:30:03 297][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      961  Ivw_AppendDataSyn [out] 0
+[2024/10/15 09:30:03 297][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     941  QIVWAudioWrite() [out] 0
+[2024/10/15 09:30:03 327][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     858  QIVWAudioWrite(86e964b0,87239df0,6400,2,) [in]
+[2024/10/15 09:30:03 328][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     865  QIVWAudioWrite session addr:(86e964b0)
+[2024/10/15 09:30:03 328][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      906  Ivw_AppendDataSyn(86e656f0, 87239df0, 6400) [in]
+[2024/10/15 09:30:03 334][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:30:03 334][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:30:03 334][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:30:03 339][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:30:03 339][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      961  Ivw_AppendDataSyn [out] 0
+[2024/10/15 09:30:03 339][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     941  QIVWAudioWrite() [out] 0
+[2024/10/15 09:30:03 370][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     858  QIVWAudioWrite(86e964b0,8723b6f0,6400,2,) [in]
+[2024/10/15 09:30:03 370][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     865  QIVWAudioWrite session addr:(86e964b0)
+[2024/10/15 09:30:03 370][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      906  Ivw_AppendDataSyn(86e656f0, 8723b6f0, 6400) [in]
+[2024/10/15 09:30:03 371][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:30:03 371][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:30:03 378][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:30:03 378][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:30:03 378][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      961  Ivw_AppendDataSyn [out] 0
+[2024/10/15 09:30:03 378][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     941  QIVWAudioWrite() [out] 0
+[2024/10/15 09:30:03 408][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     858  QIVWAudioWrite(86e964b0,8723cff0,6400,2,) [in]
+[2024/10/15 09:30:03 409][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     865  QIVWAudioWrite session addr:(86e964b0)
+[2024/10/15 09:30:03 409][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      906  Ivw_AppendDataSyn(86e656f0, 8723cff0, 6400) [in]
+[2024/10/15 09:30:03 409][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:30:03 414][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:30:03 414][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:30:03 414][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:30:03 414][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      961  Ivw_AppendDataSyn [out] 0
+[2024/10/15 09:30:03 414][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     941  QIVWAudioWrite() [out] 0
+[2024/10/15 09:30:03 444][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     858  QIVWAudioWrite(86e964b0,8723e8f0,6400,2,) [in]
+[2024/10/15 09:30:03 445][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     865  QIVWAudioWrite session addr:(86e964b0)
+[2024/10/15 09:30:03 445][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      906  Ivw_AppendDataSyn(86e656f0, 8723e8f0, 6400) [in]
+[2024/10/15 09:30:03 445][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:30:03 452][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:30:03 452][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:30:03 452][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:30:03 452][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      961  Ivw_AppendDataSyn [out] 0
+[2024/10/15 09:30:03 452][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     941  QIVWAudioWrite() [out] 0
+[2024/10/15 09:30:03 483][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     858  QIVWAudioWrite(86e964b0,872401f0,6400,2,) [in]
+[2024/10/15 09:30:03 483][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     865  QIVWAudioWrite session addr:(86e964b0)
+[2024/10/15 09:30:03 483][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      906  Ivw_AppendDataSyn(86e656f0, 872401f0, 6400) [in]
+[2024/10/15 09:30:03 491][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:30:03 491][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:30:03 491][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:30:03 495][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:30:03 495][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      961  Ivw_AppendDataSyn [out] 0
+[2024/10/15 09:30:03 495][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     941  QIVWAudioWrite() [out] 0
+[2024/10/15 09:30:03 526][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     858  QIVWAudioWrite(86e964b0,87241af0,6400,2,) [in]
+[2024/10/15 09:30:03 526][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     865  QIVWAudioWrite session addr:(86e964b0)
+[2024/10/15 09:30:03 526][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      906  Ivw_AppendDataSyn(86e656f0, 87241af0, 6400) [in]
+[2024/10/15 09:30:03 526][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:30:03 526][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:30:03 534][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:30:03 534][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:30:03 534][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      961  Ivw_AppendDataSyn [out] 0
+[2024/10/15 09:30:03 534][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     941  QIVWAudioWrite() [out] 0
+[2024/10/15 09:30:03 565][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     858  QIVWAudioWrite(86e964b0,872433f0,6400,2,) [in]
+[2024/10/15 09:30:03 565][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     865  QIVWAudioWrite session addr:(86e964b0)
+[2024/10/15 09:30:03 565][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      906  Ivw_AppendDataSyn(86e656f0, 872433f0, 6400) [in]
+[2024/10/15 09:30:03 565][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:30:03 573][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:30:03 573][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:30:03 573][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:30:03 573][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      961  Ivw_AppendDataSyn [out] 0
+[2024/10/15 09:30:03 573][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     941  QIVWAudioWrite() [out] 0
+[2024/10/15 09:30:03 604][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     858  QIVWAudioWrite(86e964b0,87244cf0,6354,4,) [in]
+[2024/10/15 09:30:03 604][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     865  QIVWAudioWrite session addr:(86e964b0)
+[2024/10/15 09:30:03 604][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      906  Ivw_AppendDataSyn(86e656f0, 87244cf0, 6354) [in]
+[2024/10/15 09:30:03 604][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:30:03 610][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:30:03 610][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:30:03 611][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      948  wIvw_AudioWriteInst status(0) [in]
+[2024/10/15 09:30:03 611][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      961  Ivw_AppendDataSyn [out] 0
+[2024/10/15 09:30:03 611][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      855  Ivw_ResetSyn(86e656f0) [in]
+[2024/10/15 09:30:03 617][Pxcbc][Tx9d399340][TRC] LENGINE    ivw.c      873  Ivw_ResetSyn(0) [out]
+[2024/10/15 09:30:03 617][Pxcbc][Tx9d399340][TRC] QIVW       qivw.c     941  QIVWAudioWrite() [out] 0
